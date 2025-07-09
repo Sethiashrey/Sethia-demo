@@ -5,3 +5,6 @@ Changes Made By - Shrey Sethia
 
 # Name
 Shrey Sethia 
+
+# College
+Vellore Institute of Technology
